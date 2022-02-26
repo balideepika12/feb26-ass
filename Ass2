@@ -7,10 +7,10 @@ for i in range(n):
     x=0
     c=0
     for i in range(n):
-if l[i]!=0:
+    if l[i]!=0:
         t.append(l[i])
         x=x+1
         c=c+1
-        for i in range(x,n)
+        for i in range(x,n):
         t.append(0)
         print(t)
